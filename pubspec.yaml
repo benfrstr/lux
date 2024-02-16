@@ -1,7 +1,7 @@
-name: lux
+name: onyx
 description: A Guilded wrapper written in Dart.
-homepage: https://github.com/benfrste/lux
-repository: https://github.com/benfrstr/lux
+homepage: https://github.com/benfrste/onyx
+repository: https://github.com/benfrstr/onyx
 version: 1.0.0
 
 environment:
