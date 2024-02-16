@@ -1,5 +1,7 @@
 name: lux
 description: A Guilded wrapper written in Dart.
+homepage: https://github.com/benfrste/lux
+repository: https://github.com/benfrstr/lux
 version: 1.0.0
 
 environment:

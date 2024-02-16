@@ -1,5 +1,4 @@
 enum Events {
-  Ready,
-  Message,
-  MessageDeleted,
+    ready,
+    message,
 }

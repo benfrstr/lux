@@ -1,13 +1,10 @@
-import 'Client.dart';
+import 'client.dart';
 
 class ClientUser {
-  Client _client;
-  Map<String, dynamic> _userData;
+  final Client client;
+  final Map<String, dynamic> _userData;
 
-  ClientUser(Client client, Map data) {
-    _client = client;
-    _userData = data;
-  }
+  ClientUser(this.client, Map<String, dynamic> data) : _userData = data;
 
   String getId() {
     return _userData['id'];
